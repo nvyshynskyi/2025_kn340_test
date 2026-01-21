@@ -1,3 +1,8 @@
+<h1><p align="center"><strong>Екзаменаційна робота</strong></p>
+<p align="center"><strong>З дисципліни «Тестування програмних систем та комплексів»</strong></p>
+<p align="center"><strong>Студента групи КН-340</strong></p>
+<p align="center"><strong>Вишинський Назар</strong></p></h1>
+
 # Білет №3
 
 ## 1. Різниця між верифікацією та валідацією програмного забезпечення
@@ -120,4 +125,5 @@ class TestFactorial(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
 ```
